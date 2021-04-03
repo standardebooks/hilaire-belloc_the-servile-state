@@ -30,3 +30,8 @@ footer{
 section#epigraph{
 	margin-top: 20vh;
 }
+
+section#abstract > p{
+	margin-top: 1vh;
+	text-indent: 0em;
+}
