@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* Style the introduction ordered lists */
+/* Style the introduction ordered list that has a sentence between 2 and 3 */
 section#introduction > ol{
 	list-style-type: none;
 }
@@ -33,5 +33,9 @@ section#epigraph{
 
 section#abstract > p{
 	margin-top: 1vh;
-	text-indent: 0em;
+	text-indent: 0;
+}
+
+section#chapter-9 > ol > li::marker{
+	content: "(" counter(list-item, decimal) ") ";
 }
