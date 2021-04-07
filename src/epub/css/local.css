@@ -10,11 +10,6 @@ footer{
 	text-align: right;
 }
 
-section#abstract > p{
-	margin-top: 1vh;
-	text-indent: 0;
-}
-
 section[epub|type~="dedication"]{
 	text-align: center;
 }
@@ -82,4 +77,17 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
+}
+
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+[epub|type~="bridgehead"] i,
+[epub|type~="bridgehead"] em{
+	font-style: normal;
 }
