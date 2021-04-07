@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-section#introduction > ol:nth-of-type(2) > li:nth-child(4) > ol > li{
+#introduction ol ol{
 	list-style-type: lower-alpha;
 }
 
