@@ -48,16 +48,15 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh85028261</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">Industrial society as we know it will tend towards the reestablishment of slavery.</dc:description>
+		<dc:description id="description">Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;
-				&lt;i&gt;The Servile State&lt;/i&gt;
-			&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;The Servile State&lt;/i&gt;, British-French writer and historian &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc&lt;/a&gt; makes a provocative case that capitalism will inevitably move toward the reestablishment of slavery. The thesis in this book forms the backbone of Belloc’s life-long effort as an advocate for reform to the existing socioeconomic system in the direction of what he terms as “distributism.”&lt;/p&gt;
+			&lt;p&gt;As a critic of both socialism and capitalism, and a fervent Catholic, Belloc lays out a history of Europe where, over generations, the pagan slavery of the Roman Empire was transformed into a “distributive” model of the Middle Ages. But, he argues, this model was broken by the rise of capitalism in England during the reign of Henry VIII. Ever since, capitalism has been moving ever closer towards the servile state: the restoration of status in the place of contract, and a vast proletariat of wage-earners with few incredibly wealthy owners.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64882</dc:source>
 		<dc:source>https://archive.org/details/cu31924013586049</dc:source>
-		<meta property="se:production-notes">PG transcription was based on 1st edition, added 2nd edition preface and used the 2nd edition scans for minor changes to the text.</meta>
+		<meta property="se:production-notes">PG transcription was based on the 1st edition. Added the 2nd edition preface and used the 2nd edition scans for minor changes to the text. Moved information from the 'synopsis' section into bridgeheads over each section.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Servile_State</meta>
