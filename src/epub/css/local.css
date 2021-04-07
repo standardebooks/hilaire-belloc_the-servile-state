@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-section#introduction > ol:nth-of-type(2) > li:nth-child(4) > ol > li{
+#introduction ol ol{
 	list-style-type: lower-alpha;
 }
 
@@ -35,14 +35,6 @@ section[epub|type~="dedication"] > *{
 	section[epub|type~="dedication"] > *{
 		margin: 0;
 	}
-}
-
-section[epub|type~="dedication"] > div:nth-of-type(1){
-	font-size: 140%;
-}
-
-section[epub|type~="dedication"] > div:nth-of-type(2){
-	font-size: 120%;
 }
 
 [epub|type~="epigraph"]{
@@ -90,4 +82,8 @@ section[epub|type~="epigraph"] > *{
 [epub|type~="bridgehead"] i,
 [epub|type~="bridgehead"] em{
 	font-style: normal;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
 }
