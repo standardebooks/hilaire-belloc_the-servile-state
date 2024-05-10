@@ -57,7 +57,7 @@
 		<dc:source>https://archive.org/details/cu31924013586049</dc:source>
 		<meta property="se:production-notes">PG transcription was based on the 1st edition. Added the 2nd edition preface and used the 2nd edition scans for minor changes to the text. Moved information from the 'synopsis' section into bridgeheads over each section.</meta>
 		<meta property="se:word-count">39941</meta>
-		<meta property="se:reading-ease.flesch">41.13</meta>
+		<meta property="se:reading-ease.flesch">41.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Servile_State</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/hilaire-belloc_the-servile-state</meta>
 		<dc:creator id="author">Hilaire Belloc</dc:creator>
