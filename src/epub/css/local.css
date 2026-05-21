@@ -71,7 +71,7 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
@@ -79,8 +79,8 @@ section[epub|type~="epigraph"] > *{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i,
-[epub|type~="bridgehead"] em{
+[epub|type~="se:bridgehead"] i,
+[epub|type~="se:bridgehead"] em{
 	font-style: normal;
 }
 
