@@ -1,0 +1,1 @@
+PG transcription was based on the 1st edition. Added the 2nd edition preface and used the 2nd edition scans for minor changes to the text. Moved information from the 'synopsis' section into bridgeheads over each section.
