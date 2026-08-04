@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh85028261</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:abstract>Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.</dc:abstract>
+		<meta property="schema:abstract">Hilaire Belloc’s thesis that the capitalist state breeds a collectivist theory which, in action, produces something utterly different from collectivism: the Servile State.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Servile State&lt;/i&gt;, British-French writer and historian &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc&lt;/a&gt; makes a provocative case that capitalism will inevitably move toward the reestablishment of slavery. The thesis in this book forms the backbone of Belloc’s life-long effort as an advocate for reform to the existing socioeconomic system in the direction of what he terms as “distributism.”&lt;/p&gt;
 			&lt;p&gt;As a critic of both socialism and capitalism, and a fervent Catholic, Belloc lays out a history of Europe where, over generations, the pagan slavery of the Roman Empire was transformed into a “distributive” model of the Middle Ages. But, he argues, this model was broken by the rise of capitalism in England during the reign of Henry VIII. Ever since, capitalism has been moving ever closer towards the servile state: the restoration of status in the place of contract, and a vast proletariat of wage-earners with few incredibly wealthy owners.&lt;/p&gt;
