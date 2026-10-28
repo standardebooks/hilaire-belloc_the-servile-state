@@ -76,6 +76,7 @@
 		<dc:contributor id="artist">Carl Redin</dc:contributor>
 		<meta property="schema:alternateName" refines="#artist">Carl Adolph Hjalmer Persson Redin</meta>
 		<meta property="file-as" refines="#artist">Redin, Carl</meta>
+		<link href="https://en.wikipedia.org/wiki/Carl_Redin" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
